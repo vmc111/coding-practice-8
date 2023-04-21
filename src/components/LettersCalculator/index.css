@@ -1,0 +1,18 @@
+.main-container {
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 30px;
+  color: #ffffff;
+  font-weight: bold;
+  flex-wrap: wrap;
+}
+.img {
+  order: 1;
+  height: 400px;
+  width: 600px;
+}
